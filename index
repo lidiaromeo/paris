@@ -261,7 +261,7 @@ section[id]{scroll-margin-top:84px}
         <div>
           <p class="eyebrow mono">Prima di partire</p>
           <h2>Il viaggio</h2>
-          <p class="sub">Andata e ritorno in autobus</p>
+          <p class="sub">Andata e ritorno...</p>
         </div>
       </div>
       <div class="banner" id="banner-viaggio" role="img" aria-label="Illustrazione di un autobus diretto a Parigi"></div>
